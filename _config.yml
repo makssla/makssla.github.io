@@ -27,7 +27,7 @@ author:
   bio              : "Computer Science Student @ UH"
   location         : "Houston, TX"
   employer         : #
-  URI              : "https://www.uh.edu/nsm/computer-science/"
+  URI              : https://www.uh.edu/nsm/computer-science/
   email            : "mkslara@gmail.com" 
 
   # Academic websites
