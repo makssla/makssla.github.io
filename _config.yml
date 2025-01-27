@@ -38,8 +38,8 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
-  uhedu            : "cs.uh.edu"
+  scopus           : "cs.uh.edu"
+ # uhedu            : "cs.uh.edu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
