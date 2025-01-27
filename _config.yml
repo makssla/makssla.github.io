@@ -27,7 +27,7 @@ author:
   bio              : "Computer Science Student @ UH"
   location         : "Houston, TX"
   employer         : #
-  uri              : # URL
+  URI              : "cs.uh.edu"
   email            : "mkslara@gmail.com" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/makayla-lara-6a0045349"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
