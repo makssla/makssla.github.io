@@ -12,7 +12,7 @@ _**Houston Community College (2021-2023)**_\
 A.S. in Computer Science\
 Cum GPA: 3.840
 
-_**University of Houston (2023-)**_\
+_**University of Houston (2023-Present)**_\
 B.S. in Computer Science & Minor in Psychology\
 Cum GPA: 3.769
 
