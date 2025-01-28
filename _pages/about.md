@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MLara"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,12 +8,12 @@ redirect_from:
 ---
 Education
 ======
-_**Houston Community College (2021-2023)**_
-A.S. in Computer Science
+_**Houston Community College (2021-2023)**_\
+A.S. in Computer Science\
 Cum GPA: 3.840
 
-_**University of Houston (2023-)**_
-B.S. in Computer Science & Minor in Psychology
+_**University of Houston (2023-)**_\
+B.S. in Computer Science & Minor in Psychology\
 Cum GPA: 3.769
 
 Link to the University of Houston's [CS Department](cs.uh.edu)
