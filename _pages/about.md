@@ -16,7 +16,7 @@ _**University of Houston (2023-Present)**_\
 B.S. in Computer Science & Minor in Psychology\
 Cum GPA: 3.769
 
-Link to the University of Houston's [CS Department]([cs.uh.edu](https://www.uh.edu/nsm/computer-science/))
+Link to the University of Houston's [CS Department](cs.uh.edu)
 
 Resume
 ------
