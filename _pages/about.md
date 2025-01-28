@@ -18,6 +18,10 @@ Cum GPA: 3.769
 
 Link to the University of Houston's [CS Department](cs.uh.edu)
 
+Resume
+------
+My resume can be found [here](https://makssla.github.io/files/resume.pdf)
+
 Template Credit
 ------
 This page was developed using the Academic Pages template which can be found [here](https://github.com/academicpages/academicpages.github.io)
