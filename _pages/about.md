@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Education
-======
+------
 _**Houston Community College (2021-2023)**_\
 A.S. in Computer Science\
 Cum GPA: 3.840
