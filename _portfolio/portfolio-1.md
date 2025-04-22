@@ -1,6 +1,6 @@
 ---
 title: "Software Design Group Project"
-excerpt: "A group-designed webapp made with Django and sqlite3. Project can be found [here](https://github.com/Iroquois-Falls/Iroquois-Falls).<br/> [![Iroquois Falls](https://img.youtube.com/vi/kqkjt9W8pR8/maxresdefault.jpg)] (https://www.youtube.com/watch?v=kqkjt9W8pR8)"
+excerpt: "A group-designed webapp made with Django and sqlite3. Project can be found [here](https://github.com/Iroquois-Falls/Iroquois-Falls).<br/> [![Iroquois Falls](https://img.youtube.com/vi/kqkjt9W8pR8/maxresdefault.jpg)](https://www.youtube.com/watch?v=kqkjt9W8pR8)"
 collection: portfolio
 ---
 
