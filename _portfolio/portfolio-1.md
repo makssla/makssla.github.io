@@ -1,6 +1,6 @@
 ---
 title: "Software Design Group Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "A group-designed webapp made with Django and sqlite3. Project can be found [here](https://github.com/Iroquois-Falls/Iroquois-Falls). <br/>"
 collection: portfolio
 ---
 
